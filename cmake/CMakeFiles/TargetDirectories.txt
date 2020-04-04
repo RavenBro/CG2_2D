@@ -1,0 +1,3 @@
+/home/blurrface/Рабочий стол/1212/cmake/CMakeFiles/edit_cache.dir
+/home/blurrface/Рабочий стол/1212/cmake/CMakeFiles/rebuild_cache.dir
+/home/blurrface/Рабочий стол/1212/cmake/CMakeFiles/cg2game.dir

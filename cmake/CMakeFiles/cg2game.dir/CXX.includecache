@@ -1,0 +1,296 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.cpp
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+EcsComponents.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsComponents.h
+EcsEntities.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsEntities.h
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+typeindex
+-
+cstring
+-
+iostream
+-
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsComponents.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+GameStructures.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameStructures.h
+SFML/Graphics.hpp
+-
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsEntities.cpp
+EcsEntities.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsEntities.h
+Renderer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.h
+Game.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsEntities.h
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+EcsComponents.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsComponents.h
+iostream
+-
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsOrder.cpp
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+EcsEntities.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsEntities.h
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+EcsComponents.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsComponents.h
+EcsEntities.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsEntities.h
+GameEvents.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameEvents.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Event.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.cpp
+Game.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+GameStructures.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameStructures.h
+GameDataLoad.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameDataLoad.h
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+Timer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Timer.h
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+limits.h
+-
+Renderer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.h
+GameLevelData.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameLevelData.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+GameStructures.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameStructures.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+SFML/Graphics.hpp
+-
+Renderer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameDataLoad.cpp
+GameDataLoad.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameDataLoad.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+fstream
+-
+sstream
+-
+iostream
+-
+cstring
+-
+Utils.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Utils.h
+SFML/Graphics.hpp
+-
+Renderer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.h
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+EcsComponents.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsComponents.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameDataLoad.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+GameLevelData.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameLevelData.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameEvents.h
+Event.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Event.h
+SFML/Window.hpp
+-
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameLevelData.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+GameStructures.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameStructures.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameStructures.cpp
+GameStructures.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameStructures.h
+cstdlib
+-
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/GameStructures.h
+Renderer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.cpp
+Renderer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.h
+iostream
+-
+limits.h
+-
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.h
+SFML/Graphics.hpp
+-
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+Utils.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Utils.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/S_GameAttackSys.cpp
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+EcsComponents.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsComponents.h
+Game.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/S_GameGuiRenderSys.cpp
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+Renderer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.h
+Game.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+limits.h
+-
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/S_GameInputController.cpp
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+Utils.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Utils.h
+Game.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/S_GameMove.cpp
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+Game.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/S_GameRender.cpp
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+Renderer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Renderer.h
+Game.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/S_UpdateSys.cpp
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+EcsComponents.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsComponents.h
+Game.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Timer.h
+chrono
+-
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Utils.cpp
+Utils.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Utils.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Utils.h
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/main.cpp
+Event.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Event.h
+iostream
+-
+vector
+-
+memory
+-
+typeinfo
+-
+stl.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+ECS.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/ECS.h
+EcsEntities.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsEntities.h
+EcsSystems.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/EcsSystems.h
+SFML/Graphics.hpp
+-
+Game.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Game.h
+Utils.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Utils.h
+Timer.h
+/home/blurrface/Рабочий стол/CG2_template_clear/source/Timer.h
+X11/Xlib.h
+-
+
+/home/blurrface/Рабочий стол/CG2_template_clear/source/stl.h
+memory
+-
+vector
+-
+map
+-
+list
+-
+string
+-
+set
+-
+queue
+-
+functional
+-
+
